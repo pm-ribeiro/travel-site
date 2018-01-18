@@ -33,3 +33,12 @@ will save the package in the package's list
 
 sobre git branchs
 https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/learn/v4/t/lecture/5269656?start=150
+
+> git branch nameOfTheBranch 
+cria uma nova branch
+
+>git checkout nameOftheBranch
+troca de branch para a indicada
+
+> git checkout -b our-features
+criar uma nova branch e trocar para ela
