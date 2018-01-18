@@ -53,7 +53,7 @@ merging a branch
 3rd: checkout to master
 you are read to merge
 4th: git merge NameOfTheBranch --no-ff
-(no fast forward)
+(no fast forward: create a dedicated commit in your repo's history wich is a consolidated place to see all of the changes in all of the commit for that branch)
 
 
 
