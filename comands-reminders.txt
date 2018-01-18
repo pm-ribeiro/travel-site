@@ -42,3 +42,7 @@ troca de branch para a indicada
 
 > git checkout -b our-features
 criar uma nova branch e trocar para ela
+
+
+> 
+merging branch
