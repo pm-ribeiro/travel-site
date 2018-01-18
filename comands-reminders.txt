@@ -27,3 +27,9 @@ will save the package in the package's list
 
 
 > npm install nameOfPackeg --save-dev
+
+
+
+
+sobre git branchs
+https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/learn/v4/t/lecture/5269656?start=150
