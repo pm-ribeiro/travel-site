@@ -1,0 +1,29 @@
+download node js
+
+
+
+>npm install gulp-cli --global
+
+install gulp globaly
+
+
+
+> npm init
+
+initalize a package's list
+
+
+
+> npm install
+
+will install all your package's list
+
+
+
+> npm install nameOfPackeg --save
+
+will save the package in the package's list
+
+
+
+> npm install nameOfPackeg --save-dev
