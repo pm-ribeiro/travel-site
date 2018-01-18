@@ -31,7 +31,7 @@ will save the package in the package's list
 
 
 
-sobre git branchs
+sobre git branchs 
 https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/learn/v4/t/lecture/5269656?start=150
 
 > git branch nameOfTheBranch 
@@ -42,3 +42,33 @@ troca de branch para a indicada
 
 > git checkout -b our-features
 criar uma nova branch e trocar para ela
+
+
+> git merge NameOfTheBranch
+merging a branch
+
+--> steps to merge a branch
+1st: add your changes to the staging
+2nd: commit the changes
+3rd: checkout to master
+you are read to merge
+4th: git merge NameOfTheBranch --no-ff
+(no fast forward)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
