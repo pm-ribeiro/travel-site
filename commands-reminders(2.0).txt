@@ -1,7 +1,5 @@
 download node js
 
-
-
 >npm install gulp-cli --global
 
 install gulp globaly
