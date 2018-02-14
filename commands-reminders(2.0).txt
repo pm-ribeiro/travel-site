@@ -57,8 +57,9 @@ you are read to merge
 delete a branch
 
 
-
-
+--> install webpack
+import js file into another
+> npm install webpack -g
 
 
 
