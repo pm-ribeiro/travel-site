@@ -10,7 +10,7 @@
     max-width: 976px;
   }
 
-/*-- is a modifier*/
+  /*-- is a modifier*/
   &--narrow{
     max-width: 470px;
   }
